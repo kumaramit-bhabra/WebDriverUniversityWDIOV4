@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Validdate the WebDriver University HomePage",
+    "children" : [ {
+      "name" : "Check the title of the page",
+      "uid" : "c935a6bd5b4db34c",
+      "parentUid" : "4c528b5423f032a7b134b277cfe45136",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1575853597526,
+        "stop" : 1575853597526,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4c528b5423f032a7b134b277cfe45136"
+  } ]
+}

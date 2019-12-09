@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Validdate the WebDriver University HomePage",
+    "children" : [ {
+      "name" : "Check the title of the page",
+      "uid" : "c935a6bd5b4db34c",
+      "parentUid" : "e0c4331e6204f26f324780264f2ddb60",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1575853597526,
+        "stop" : 1575853597526,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e0c4331e6204f26f324780264f2ddb60"
+  } ]
+}

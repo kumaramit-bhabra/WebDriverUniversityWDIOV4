@@ -1,0 +1,48 @@
+{
+  "uid" : "c935a6bd5b4db34c",
+  "name" : "Check the title of the page",
+  "fullName" : "Validdate the WebDriver University HomePage.Check the title of the page",
+  "historyId" : "31a366df6c54f597819ab02a3e7b809d",
+  "time" : {
+    "start" : 1575853597526,
+    "stop" : 1575853597526,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validdate the WebDriver University HomePage"
+  }, {
+    "name" : "testClass",
+    "value" : "Validdate the WebDriver University HomePage"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check the title of the page"
+  }, {
+    "name" : "package",
+    "value" : "Validdate the WebDriver University HomePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c935a6bd5b4db34c.json",
+  "parameterValues" : [ ]
+}
