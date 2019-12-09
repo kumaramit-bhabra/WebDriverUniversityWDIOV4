@@ -1,5 +1,5 @@
 describe("Validdate the WebDriver University HomePage", function () {
-    it.skip("Check the title of the page", function (done) {
+    it("Check the title of the page", function (done) {
         
             browser.url('/');
             browser.click('#login-portal');

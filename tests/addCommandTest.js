@@ -1,6 +1,7 @@
 beforeEach(function()
 {
     browser.url('/Contact-Us/contactus.html');
+    console.log("Helloooooooo 123");
 })
 
 browser.addCommand('enterContactUsDetails', function enterContactUsDetails(firstName, lastName, email, comments)

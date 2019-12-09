@@ -179,7 +179,7 @@ describe("Testing of different methods associated with the elements",function(){
         }, 10000, 'Expected Text to be difference' );
     });
 
-    it.only("check the behaviour of waitForValue Until for Text method",function(){
+    it("check the behaviour of waitForValue Until for Text method",function(){
         /*
         waitForValue() it will wait for an element for a specified time in ms to have 
         a value or any text
